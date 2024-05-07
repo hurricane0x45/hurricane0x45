@@ -7,7 +7,6 @@
 - 💻 I’m working on projects related to digital security and forensic analysis.
 
 ## About Me
-[You can add more personal or professional information about yourself here.]
 
 ### Connect with Me
 - 📫 How to reach me: [Your Email or LinkedIn profile]
