@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm hurricane0x45! 👋
 
 🎓 I'm a student at Murdoch University, pursuing a Bachelor of Information Technology.
 🔍 I'm majoring in Cyber Security and Forensics.
