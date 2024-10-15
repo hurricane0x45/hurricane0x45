@@ -7,5 +7,5 @@
 - 💻 I’m working on projects related to digital security and forensic analysis.
 
 ### Connect with Me
-- 📫 How to reach me: [Your Email or LinkedIn profile]
-- ⚡ Hobbies: [Your hobbies or interests]
+- 📫 How to reach me:
+- ⚡ Hobbies:
